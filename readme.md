@@ -127,12 +127,6 @@ These allow users to dynamically explore the dataset and customize views.
 
 ---
 
-## 📷 Screenshots (Optional)
-
-*Add screenshots of your dashboard here to showcase visuals*
-
----
-
 ## 📌 Future Enhancements
 
 * Add profit and cost analysis
@@ -140,22 +134,4 @@ These allow users to dynamically explore the dataset and customize views.
 * Implement advanced DAX measures (YoY growth, moving averages)
 * Connect to live data sources (SQL, APIs)
 
----
 
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork this repository and enhance the dashboard.
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-If you want next level polish, I can:
-
-* Add **real insights based on your actual Excel file**
-* Generate **dashboard screenshots section**
-* Or create a **resume/project description version (very impactful for jobs)**
